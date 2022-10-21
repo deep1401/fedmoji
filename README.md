@@ -1,5 +1,5 @@
 # fedmoji
-Repository for the paper "A Federated Approach to Predicting Emojis in Hindi Tweets" by Gandhi and Mehta et al. (2022)
+Repository for the EMNLP 2022 paper "A Federated Approach to Predicting Emojis in Hindi Tweets" by Gandhi and Mehta et al. (2022)
 
 ## Dataset
 The dataset of the code is available on Zenodo at [this link](https://zenodo.org/record/5559434)
