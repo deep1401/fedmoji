@@ -6,7 +6,7 @@ The dataset of the code is available on Zenodo at [this link](https://zenodo.org
 
 ## Citation
 ```
-@inproceedings{gandhi-etal-2022-federated,
+@inproceedings{
     title = "A Federated Approach to Predicting Emojis in Hindi Tweets",
     author = "Gandhi, Deep  and
       Mehta, Jash  and
