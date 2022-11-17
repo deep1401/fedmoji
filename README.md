@@ -44,9 +44,9 @@ python main.py --data data \
 
 In order to run the same experiment under a non-iid setting, a `--non_iid` just needs to be added to this example. The `--shared` argument can be replaced with `--causalfedgsd` to run the CausalFedGSD algorithm, and none of the arguments (shared or causalfedgsd) should be included to just use the original FedProx algorithm. The `--class_weights` argument can be removed to run the same experiments using just the imbalanced dataset. The `--class_weights` argument can be replaced with `--balanced` to run the same experiments using the balanced dataset. The `--wandb` argument can be removed to not log the results to Weights & Biases.
 
-Other values of hyperparameters can be tuned by setting the arguments `--lr` for learning rate, `--mu` for the proximal term in FedProx experiments and `--seed` for setting the same random seed across all setups.
+Other values of hyperparameters can be tuned by setting the arguments `--lr` for learning rate, `--mu` for the proximal term in FedProx experiments and `--seed` for setting the same random seed across all setups. The `--K` argument can be used to set the number of clients.
 
-Note: The models can be trained centrally by setting the `--C` parameter to 1.0.
+Note: The models can be trained centrally by setting the `--C` parameter to 1.0 and `--K` to 1.
 
 ## Citation
 
