@@ -51,17 +51,20 @@ Note: The models can be trained centrally by setting the `--C` parameter to 1.0 
 ## Citation
 
 ```
-@inproceedings{fedmoji2022
-    title = "A Federated Approach to Predicting Emojis in Hindi Tweets",
+@inproceedings{gandhi-etal-2022-federated,
+    title = "A Federated Approach to Predicting Emojis in {H}indi Tweets",
     author = "Gandhi, Deep  and
       Mehta, Jash  and
       Parekh, Nirali  and
-      Waghela, Karan and
-      D'Mello, Lynette and
+      Waghela, Karan  and
+      D{'}Mello, Lynette  and
       Talat, Zeerak",
     booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
     month = dec,
     year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.819",
+    pages = "11951--11961",
 }
 ```
