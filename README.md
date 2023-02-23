@@ -1,6 +1,6 @@
 # fedmoji
 
-Repository for the EMNLP 2022 paper ["A Federated Approach to Predicting Emojis in Hindi Tweets"](https://arxiv.org/abs/2211.06401) by Gandhi and Mehta et al. (2022)
+Repository for the EMNLP 2022 paper ["A Federated Approach to Predicting Emojis in Hindi Tweets"](https://aclanthology.org/2022.emnlp-main.819) by Gandhi and Mehta et al. (2022)
 
 ## Dataset
 
